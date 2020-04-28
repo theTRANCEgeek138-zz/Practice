@@ -4,4 +4,6 @@ first line of text: "THIS IS THE TEXT"
 
 second line of txt: "THIS IS THE SECOND TEXT"
 
+fifth line of text: "THIS IS THE THIRD TEXT"
+
 END TEXT FILE
