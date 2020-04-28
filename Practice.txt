@@ -1,0 +1,5 @@
+practice file
+
+first line of text: "THIS IS THE TEXT"
+
+END TEXT FILE
