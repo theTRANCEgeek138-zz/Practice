@@ -1,5 +1,7 @@
 practice file
 
+FILE TITLE: "PRACTICE FILE"
+
 first line of text: "THIS IS THE TEXT"
 
 second line of txt: "THIS IS THE SECOND TEXT"
