@@ -1,4 +1,5 @@
 FILE TITLE: "PRACTICE FILE"
+Author name: MINH NGUYEN
 
 first line of text: "THIS IS THE TEXT"
 
