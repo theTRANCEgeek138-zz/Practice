@@ -7,4 +7,6 @@ second line of text: "THIS IS THE SECOND TEXT"
 
 third line of text: "THIS IS THE THIRD TEXT"
 
+This line added on Cloned Git
+
 END TEXT FILE
